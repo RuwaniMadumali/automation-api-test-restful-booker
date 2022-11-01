@@ -2,7 +2,8 @@
 >This project represent automation script for all CRUD methods
 
 ### Introduction
-This Project is for learn to automate API testing with rest-assured.Here used API,restful-booker is a Create Read Update Delete Web API that comes with authentication features and loaded with a bunch of bugs to explore.
+This Project is for learn how to perform REST API automation by using Rest Assured, and understand some terms & terminologies related to API testing.
+Rest Assured is one of the Java libraries which automate REST APIs. It’s not only easy to use but also flexible too, and supports HTTP methods such as GET, POST, PUT, PATCH & DELETE. Apart from supporting BDD (Behavior Driven Development), which has annotations i.e. @Given, @When, @Then, it can also be used with unit testing frameworks such as JUnit & TestNG, and used with ‘Hamcrest’ framework for validation.
 
 #### API documentation Url : https://restful-booker.herokuapp.com/apidoc/index.html
 
